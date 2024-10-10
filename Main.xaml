@@ -125,7 +125,7 @@
         <OutArgument x:TypeArguments="x:String">[variable1]</OutArgument>
       </Assign.To>
       <Assign.Value>
-        <InArgument x:TypeArguments="x:String">11</InArgument>
+        <InArgument x:TypeArguments="x:String">12</InArgument>
       </Assign.Value>
     </Assign>
     <WriteLine DisplayName="Write Line" sap:VirtualizedContainerService.HintSize="434,113" sap2010:WorkflowViewState.IdRef="WriteLine_1" Text="[k + variable1]" />
